@@ -107,6 +107,9 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
               Get Your Status Page
             </a>
           </div>
+          <div>
+                aaaaaaaaa
+          </div>
         </div>
       </div>
     </div>
