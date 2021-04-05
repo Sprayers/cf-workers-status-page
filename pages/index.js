@@ -108,9 +108,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             </a>
           </div>
           <div>
-                aaaaaaaaa1
-                aaaaaaaaa2
-                imekotte
+                <p>To force<br> line breaks<br> in a text,<br> use the br<br> element.</p>
           </div>
         </div>
       </div>
