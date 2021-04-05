@@ -107,6 +107,14 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
               Get Your Status Page
             </a>
           </div>
+<div>
+            <a
+              href="https://github.com/eidam/cf-workers-status-page"
+              target="_blank"
+            >
+              4/5/21 restarted server
+            </a>
+          </div>
         </div>
       </div>
     </div>
