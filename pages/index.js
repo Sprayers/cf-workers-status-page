@@ -106,13 +106,13 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             >
               Get Your Status Page
             </a>
-    <script>
+          <div>
+                test incident1
+            <a
 
-        var div = document.getElementById('target_div');
-
-        div.innerHTML += 'hello world !';
-
-    </script>
+            >
+             
+            </a>
         </div>
       </div>
     </div>
