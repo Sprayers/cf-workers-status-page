@@ -106,13 +106,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             >
               Get Your Status Page
             </a>
-          <div>
-                test incident1
-            <a
-
-            >
-             
-            </a>
+          </div>
         </div>
       </div>
     </div>
