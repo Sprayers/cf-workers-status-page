@@ -108,7 +108,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             </a>
           </div>
           <div>
-                To force<br>me
+                To force
           </div>
         </div>
       </div>
