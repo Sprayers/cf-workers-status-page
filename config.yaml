@@ -24,9 +24,9 @@ monitors:
     followRedirect: false # should fetch follow redirects, default=false
 
   - id: www-cloudflare-com
-    name: www.cloudflare.com
+    name: MC server
     description: 'Built for anything connected to the Internet.'
-    url: 'https://www.spybanter.tk'
+    url: 'tcp://6.tcp.ngrok.io:19808'
     method: GET
     expectStatus: 200
 
