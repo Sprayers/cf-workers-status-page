@@ -108,7 +108,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             </a>
           </div>
           <div>
-                To force <div> 4 6 21 incident happened </div>
+                To force <div><h1> 4 6 21 incident happened </h1></div>
           </div>
         </div>
       </div>
