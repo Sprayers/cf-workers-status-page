@@ -45,7 +45,6 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
     <div className="min-h-screen">
       <Head>
         <title>{config.settings.title}</title>
-        <title>eyo</title>
         <link rel="stylesheet" href="./style.css" />
         <script>
           {`
