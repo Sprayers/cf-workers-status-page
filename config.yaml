@@ -16,9 +16,9 @@ settings:
 
 monitors:
   - id: workers-cloudflare-com # unique identifier
-    name: spybanter.com
+    name: spybanter.tk
     description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://spybanters.com' # URL to fetch
+    url: 'https://spybanters.tk' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
